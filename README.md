@@ -9,8 +9,8 @@ or less it eases some burden
 
 ## Usage
 
-1. open a new tab and switch app page
-2. right-click on secure shell icon
+1. open a new tab in chrome and switch to app page
+2. right-click on the secure shell icon
 3. left-click options
-4. enter the values need. see config
-5. open a new connection in secure shell, choose the profile u just edited
+4. enter the values needed. check config file for details
+5. open a new connection in secure shell, choose the profile u just edited/created
